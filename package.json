@@ -12,22 +12,22 @@
   },
   "devDependencies": {
     "@astrojs/mdx": "^0.15.2",
-    "@astrojs/partytown": "^1.0.3",
-    "@astrojs/tailwind": "^3.0.0",
-    "@typescript-eslint/eslint-plugin": "^5.50.0",
-    "@typescript-eslint/parser": "^5.50.0",
+    "@astrojs/partytown": "^1.2.1",
+    "@astrojs/tailwind": "^3.1.2",
+    "@typescript-eslint/eslint-plugin": "^5.59.5",
+    "@typescript-eslint/parser": "^5.59.5",
     "accessible-astro-components": "^2.0.0",
-    "astro": "^2.0.1",
+    "astro": "^2.4.4",
     "astro-compress": "1.1.28",
     "astro-icon": "^0.7.3",
-    "eslint": "^8.33.0",
+    "eslint": "^8.40.0",
     "eslint-plugin-astro": "^0.23.0",
     "eslint-plugin-jsx-a11y": "^6.7.1",
-    "prettier": "^2.8.3",
+    "prettier": "^2.8.8",
     "prettier-plugin-astro": "^0.8.0",
-    "prettier-plugin-tailwindcss": "^0.2.2",
-    "sass": "^1.49.9",
+    "prettier-plugin-tailwindcss": "^0.2.8",
+    "sass": "^1.62.1",
     "svgo": "^2.8.0",
-    "tailwindcss": "^3.2.7"
+    "tailwindcss": "^3.3.2"
   }
 }
