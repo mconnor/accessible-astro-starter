@@ -1,5 +1,6 @@
 {
   "name": "accessible-astro-starter",
+  "type": "module",
   "description": "An Accessible Starter Theme for Astro including several accessiblity features and tools to help you build faster.",
   "version": "2.0.3",
   "author": "Mike Connor",
