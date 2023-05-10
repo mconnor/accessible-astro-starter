@@ -47,7 +47,7 @@ Clone this theme locally and run any of the following commands in your terminal:
 - [Accessible Astro Dashboard](https://github.com/markteekman/accessible-astro-dashboard/)
 - [Accessible Astro Components](https://github.com/markteekman/accessible-astro-components/)
 
-## ❤️ Helping out
+<!-- ## ❤️ Helping out
 
 If you find that something isn't working right then I'm always happy to hear it to improve this starter! You can contribute in many ways and forms. Let me know by either:
 
@@ -60,4 +60,4 @@ If you find that something isn't working right then I'm always happy to hear it 
 
 A big thank you to the creators of the awesome Astro static site generator and to all using this starter to make the web a bit more accessible for all people around the world :)
 
-[![buymeacoffee-button](https://user-images.githubusercontent.com/3909046/150683481-be070424-7bb0-4dd7-a3cb-43b5605163f5.png)](https://www.buymeacoffee.com/markteekman)
+[![buymeacoffee-button](https://user-images.githubusercontent.com/3909046/150683481-be070424-7bb0-4dd7-a3cb-43b5605163f5.png)](https://www.buymeacoffee.com/markteekman) -->
