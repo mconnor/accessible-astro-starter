@@ -28,3 +28,4 @@ pnpm-debug.log*
 # vscode settings and dictionaries
 .vscode
 
+*.yml
