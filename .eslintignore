@@ -2,8 +2,7 @@
 dist/
 .output/
 
-# IDEs
-.vscode/
+
 
 # dependencies
 node_modules/
@@ -24,4 +23,5 @@ pnpm-debug.log*
 .env.production
 
 
-*.yml
+# Local Netlify folder
+.netlify
