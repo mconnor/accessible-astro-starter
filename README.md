@@ -9,7 +9,7 @@ Accessible Astro Starter is a ready to use, SEO and a11y friendly blogging theme
 ## ♿ (Accessibility) Features
 
 -   Tailwind CSS support
--   Prettier integration with `prettier-plugin-astro` and `prettier-plugin-tailwind`
+-   Prettier integration with `prettier-plugin-astro` and `prettier-plugin-tailwindcss`
 -   ESLint integration with strict accessibility settings for `eslint-plugin-jsx-a11y`
 -   Markdown and MDX support with examples included in the theme
 -   Uses the awesome `astro-icon` package for the icons

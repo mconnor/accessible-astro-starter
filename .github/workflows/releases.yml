@@ -2,19 +2,19 @@
 name: 'prepare-release'
 
 on:
-  push:
-    branches:
-      - 'main'
+    push:
+        branches:
+            - 'main'
 
 jobs:
-  pre-release:
-    name: 'Prepare Release'
-    runs-on: 'ubuntu-latest'
+    pre-release:
+        name: 'Prepare Release'
+        runs-on: 'ubuntu-latest'
 
-    steps:
-      - uses: 'marvinpinto/action-automatic-releases@latest'
-        with:
-          repo_token: '${{ secrets.GITHUB_TOKEN }}'
-          automatic_release_tag: 'latest'
-          prerelease: true
-          title: 'Next Release'
+        steps:
+            - uses: 'marvinpinto/action-automatic-releases@latest'
+              with:
+                  repo_token: '${{ secrets.GITHUB_TOKEN }}'
+                  automatic_release_tag: 'latest'
+                  prerelease: true
+                  title: 'Next Release'
