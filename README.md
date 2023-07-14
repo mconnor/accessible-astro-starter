@@ -47,6 +47,8 @@ Clone this theme locally and run any of the following commands in your terminal:
 - [Accessible Astro Dashboard](https://github.com/markteekman/accessible-astro-dashboard/)
 - [Accessible Astro Components](https://github.com/markteekman/accessible-astro-components/)
 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cc539e33-6394-4da1-afdf-6436102b4bf0/deploy-status)](https://app.netlify.com/sites/accessible-astro-starter/deploys)
 <!-- ## ❤️ Helping out
 
 If you find that something isn't working right then I'm always happy to hear it to improve this starter! You can contribute in many ways and forms. Let me know by either:
