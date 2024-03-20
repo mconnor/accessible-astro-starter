@@ -1,5 +1,10 @@
 ---
-import { Icon } from 'astro-icon'
+import { Icon } from 'astro-icon/components'
+
+type Astro = {
+    icon?: string
+    title?: string
+}
 
 const { icon = 'mdi:rocket', title = 'Title' } = Astro.props
 ---

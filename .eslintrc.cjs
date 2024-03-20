@@ -1,7 +1,11 @@
 /** @type {import("eslint").Linter.Config} */
 module.exports = {
     // ...
-    extends: ['plugin:astro/recommended', 'plugin:astro/jsx-a11y-strict'],
+    extends: [
+        'plugin:astro/recommended',
+        'plugin:astro/jsx-a11y-strict',
+        'prettier',
+    ],
     parser: '@typescript-eslint/parser',
     parserOptions: {
         tsconfigRootDir: __dirname,
